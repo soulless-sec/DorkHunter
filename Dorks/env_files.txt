@@ -1,0 +1,3 @@
+ext:env intext:"DB_HOST"
+ext:env intext:"MAIL_PASSWORD"
+filetype:env intext:"AWS_KEY"

@@ -1,0 +1,5 @@
+site:s3.amazonaws.com
+site:blob.core.windows.net
+site:storage.googleapis.com
+site:digitaloceanspaces.com
+site:firebaseio.com

@@ -1,0 +1,34 @@
+filetype:conf intext:"password"
+filetype:ini intext:"password"
+filetype:json intext:"password"
+filetype:p12
+filetype:pem
+filetype:pfx
+filetype:pkcs12
+filetype:xml intext:"password"
+filetype:yaml intext:"password"
+filetype:yml intext:"password"
+intext:"API_KEY" filetype:env
+intext:"AWS_SECRET_ACCESS_KEY" filetype:env
+intext:"BEGIN DSA PRIVATE KEY"
+intext:"BEGIN EC PRIVATE KEY"
+intext:"BEGIN OPENSSH PRIVATE KEY"
+intext:"BEGIN PGP PRIVATE KEY BLOCK"
+intext:"BEGIN PRIVATE KEY"
+intext:"BEGIN RSA PRIVATE KEY"
+intext:"DB_PASS" filetype:env
+intext:"MYSQL_PASSWORD" filetype:env
+intext:"SECRET_KEY" filetype:env
+intext:"STRIPE_SECRET_KEY" filetype:env
+intext:"db_password" filetype:php
+intext:"passwd=" filetype:php
+intext:"password=" filetype:php
+intext:"secret_key" filetype:php
+inurl:".ssh/id_rsa"
+inurl:"cert.pem"
+inurl:"certificate.pem"
+inurl:"eyJhbGciOiJIUzI1NiJ9"
+inurl:"eyJhbGciOiJub25lIn0"
+inurl:"private_key"
+inurl:"server.key"
+inurl:"ssl.key"

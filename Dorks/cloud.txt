@@ -1,0 +1,23 @@
+filetype:json inurl:"firebase"
+intext:"AIzaSy" filetype:js
+intext:"AWS_ACCESS_KEY" filetype:env
+intext:"AWS_SECRET_KEY" filetype:env
+intext:"AZURE_STORAGE_KEY" filetype:env
+intext:"GOOGLE_API_KEY" filetype:env
+intext:"Kubernetes" inurl:"/dashboard"
+inurl:":6443" inurl:"/api/v1"
+inurl:":8001" inurl:"/api/v1"
+inurl:"firebaseio.com"
+inurl:"s3.amazonaws.com" intext:"AccessKey"
+site:appspot.com inurl:"/api"
+site:azurewebsites.net inurl:"/api"
+site:azurewebsites.net inurl:"?debug"
+site:blob.core.windows.net
+site:digitaloceanspaces.com
+site:firebaseio.com
+site:heroku.com inurl:"/admin"
+site:herokuapp.com inurl:"/admin"
+site:s3.amazonaws.com
+site:s3.amazonaws.com intext:"AWSAccessKeyId"
+site:s3.amazonaws.com intext:"xml"
+site:storage.googleapis.com

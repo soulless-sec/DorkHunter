@@ -1,0 +1,3 @@
+inurl:"/.git/config"
+inurl:"/.git/logs/HEAD"
+intitle:"index of" ".git"

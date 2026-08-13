@@ -1,0 +1,5 @@
+ext:sql intext:"CREATE TABLE"
+ext:sql.gz
+ext:sql.zip
+ext:dump
+ext:tar.gz inurl:backup

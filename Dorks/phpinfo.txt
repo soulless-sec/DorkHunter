@@ -1,0 +1,3 @@
+intitle:"phpinfo()"
+inurl:"phpinfo.php"
+inurl:"info.php"

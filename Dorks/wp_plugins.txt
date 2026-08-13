@@ -1,0 +1,3 @@
+inurl:"/wp-content/plugins/revslider/"
+inurl:"/wp-content/plugins/elementor/"
+inurl:"/wp-content/plugins/woocommerce/"

@@ -1,0 +1,35 @@
+filetype:sql intext:"CREATE TABLE"
+filetype:sql intext:"INSERT INTO"
+filetype:sql intext:"password"
+filetype:sql intext:"username"
+intext:"MONGODB_URI"
+intext:"MongoDB Server Information"
+intext:"REDIS_URL"
+intext:"Welcome to CouchDB"
+intext:"cluster_name"
+intext:"jdbc:mysql://" filetype:java
+intext:"jdbc:postgresql://" filetype:java
+intext:"mongoHost"
+intext:"mongodb://" filetype:env
+intext:"mysql://" filetype:env
+intext:"postgresql://" filetype:env
+intext:"redis://" filetype:env
+intext:"redis_version"
+intitle:"Adminer"
+intitle:"CouchDB"
+intitle:"Elasticsearch"
+intitle:"MongoDB"
+intitle:"Redis Commander"
+intitle:"phpMyAdmin" inurl:"/phpmyadmin"
+intitle:"phpMyAdmin" inurl:"/pma"
+inurl:"/_all_dbs"
+inurl:"/_cat/indices"
+inurl:"/_cluster/health"
+inurl:"/_utils"
+inurl:"/adminer.php"
+inurl:":27017"
+inurl:":27018"
+inurl:":5984"
+inurl:":6379"
+inurl:":9200"
+inurl:":9300"

@@ -1,0 +1,3 @@
+inurl:"/actuator/env"
+inurl:"/actuator/heapdump"
+inurl:"/actuator/health"

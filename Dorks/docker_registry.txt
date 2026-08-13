@@ -1,0 +1,3 @@
+inurl:"/v2/_catalog"
+inurl:"/v2/tags/list"
+intitle:"Docker Registry"

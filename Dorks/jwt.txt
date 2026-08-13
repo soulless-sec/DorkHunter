@@ -1,0 +1,20 @@
+filetype:json intext:"access_token"
+filetype:json intext:"refresh_token"
+filetype:log intext:"Bearer eyJ"
+intext:"JWT_KEY" filetype:env
+intext:"JWT_SECRET" filetype:env
+intext:"JWT_SIGNING_KEY" filetype:env
+intext:"PyJWT" intext:"secret" filetype:py
+intext:"TOKEN_SECRET" filetype:env
+intext:"jjwt" intext:"secret" filetype:java
+intext:"jsonwebtoken" intext:"secret" filetype:js
+intext:"jwt.sign(" filetype:js
+intext:"jwt.verify(" filetype:js
+inurl:"?auth=eyJ"
+inurl:"?jwt=eyJ"
+inurl:"?t=eyJ"
+inurl:"?token=eyJ"
+inurl:"access_token=eyJ"
+inurl:"auth_token=eyJ"
+inurl:"id_token=eyJ"
+inurl:"token=eyJ"

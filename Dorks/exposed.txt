@@ -1,0 +1,85 @@
+ext:accdb
+ext:backup
+ext:bak
+ext:cfg
+ext:conf
+ext:config
+ext:dbf
+ext:env
+ext:ini inurl:"config"
+ext:log inurl:"access"
+ext:log inurl:"application"
+ext:log inurl:"debug"
+ext:log inurl:"error"
+ext:mdb
+ext:old
+ext:orig
+ext:save
+ext:sql
+ext:sql.gz
+ext:sql.zip
+ext:swp
+ext:yaml inurl:"config"
+ext:yml inurl:"config"
+filetype:csv intext:"password"
+filetype:env intext:"API_KEY"
+filetype:env intext:"APP_KEY"
+filetype:env intext:"DB_PASSWORD"
+filetype:env intext:"SECRET_KEY"
+filetype:log intext:"password"
+filetype:p12
+filetype:pem
+filetype:pfx
+filetype:sql intext:"CREATE TABLE"
+filetype:sql intext:"INSERT INTO"
+filetype:sql intext:"password"
+filetype:txt intext:"password"
+filetype:txt intext:"username" intext:"password"
+filetype:xls intext:"password"
+filetype:xml inurl:"config"
+intext:"BEGIN DSA PRIVATE KEY"
+intext:"BEGIN EC PRIVATE KEY"
+intext:"BEGIN OPENSSH PRIVATE KEY"
+intext:"BEGIN PRIVATE KEY"
+intext:"BEGIN RSA PRIVATE KEY"
+intitle:"index of /"
+intitle:"index of /admin"
+intitle:"index of /backup"
+intitle:"index of /bak"
+intitle:"index of /config"
+intitle:"index of /data"
+intitle:"index of /database"
+intitle:"index of /db"
+intitle:"index of /files"
+intitle:"index of /logs"
+intitle:"index of /old"
+intitle:"index of /private"
+intitle:"index of /secret"
+intitle:"index of /sql"
+intitle:"index of /temp"
+intitle:"index of /tmp"
+intitle:"index of /uploads"
+intitle:"index of"
+intitle:"index of" ".git"
+intitle:"index of" ".svn"
+intitle:"phpinfo()"
+inurl:".git/config"
+inurl:".htaccess"
+inurl:".htpasswd"
+inurl:".ssh/id_rsa"
+inurl:".svn/entries"
+inurl:"adminer.php"
+inurl:"backup.sql"
+inurl:"backup.tar.gz"
+inurl:"backup.zip"
+inurl:"config.php"
+inurl:"configuration.php"
+inurl:"database.php"
+inurl:"db_backup"
+inurl:"debug.php"
+inurl:"id_rsa"
+inurl:"info.php"
+inurl:"phpinfo.php"
+inurl:"settings.php"
+inurl:"test.php"
+inurl:"web.config"
